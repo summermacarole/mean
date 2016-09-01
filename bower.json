@@ -1,0 +1,17 @@
+{
+  "name": "mean",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "summermacarole <1740249919@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/summermacarole/mean",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
